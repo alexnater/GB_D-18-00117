@@ -1,5 +1,5 @@
-# GenomeBiology_D-18-00117
-Custom scripts used in "Genomes reveal marked differences in the adaptive evolution between orangutan species".
+# GB_D-18-00117
+Custom scripts used in the Genome Biology paper "Genomes reveal marked differences in the adaptive evolution between orangutan species".
 
 Classes/  Contains Perl packages used in the scripts below.
 
